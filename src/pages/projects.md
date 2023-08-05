@@ -1,77 +1,98 @@
 ---
 layout: ../layouts/Projects.astro
 projects:
-  Machine Learning:
-    - name: Flint
-      link: https://github.com/Renovamen/flint
-      desc: A toy deep learning framework implemented in Numpy from scratch
-      icon: i-heroicons-solid:fire
+  Machine Learning (Python):
+    - name: Brain Tumor Image Segmentation
+      link: https://github.com/Ryan-Daley/Brain-Tumour-Image-Segmentation
+      desc: Using a U-Net convolutional neural network (CNN) to segment brain tumor images
+      icon: i-file-icons-brainfuck
       tech:
+        - i-logos:python
+        - i-logos:pytorch-icon
+    - name: Amazon Reviews - Sentiment Analysis
+      link: https://github.com/Ryan-Daley/Amazon-Sentiment-Analysis-
+      desc: Using Artificial Neural Networks (ANN's) to predict the sentiment of Amazon reviews
+      icon: i-mdi-amazon
+      tech: 
         - i-logos:python
         - i-logos:numpy
       repo: Renovamen/flint
-    - name: Speech Emotion Recognition
-      link: https://github.com/Renovamen/Speech-Emotion-Recognition
-      desc: Speech emotion recognition implemented in Keras
-      icon: i-ph:microphone-bold
+    - name: Movie Recommender System
+      link: https://github.com/Ryan-Daley/Movie-Recommender-System
+      desc: Using K-means clustering algorithm to create a movie recommender system
+      icon: i-bx-camera-movie
       repo: Renovamen/Speech-Emotion-Recognition
-    - name: torchmasked
-      link: https://github.com/Renovamen/torchmasked
-      desc: Masked tensor operations for PyTorch
-      icon: i-iconoir:grid-remove
+    - name: Handwriting Recognition
+      link: https://github.com/Ryan-Daley/Handwriting-Recognition
+      desc: Using a convolutional neural network (CNN) to recognise handwritten digits
+      icon: i-heroicons-solid:document-text
       tech:
         - i-logos:python
         - i-logos:pytorch-icon
-    - name: torchop
-      link: https://github.com/Renovamen/torchop
-      desc: Attention / convolution operators
-      icon: i-uis:web-grid
+    - name: Search Algorithms - Travelling Salesman Problem
+      link: https://github.com/Ryan-Daley/Travelling-Salesman-Problem
+      desc: Employing various search algorithms to solve the Travelling Salesman Problem
+      icon: i-material-symbols-map-outline
       tech:
         - i-logos:python
         - i-logos:pytorch-icon
-    - name: Metallic
-      link: https://github.com/Renovamen/metallic
-      desc: A clean and lightweight PyTorch meta-learning library
-      icon: i-lucide:hammer
+    - name: Predicting Titanic Survivors
+      link: https://github.com/Ryan-Daley/Titanic-Survival-Analysis
+      desc: Using decision trees and random forest to predict Titanic survivors
+      icon: i-uil-anchor
       tech:
         - i-logos:python
         - i-logos:pytorch-icon
-    - name: Text Classification
-      link: https://github.com/Renovamen/Text-Classification
-      desc: Some text classification models implemented in PyTorch
-      icon: i-gg:format-text
+    - name: Evolutionary Algorithms - Painting with Polygons
+      link: https://github.com/Ryan-Daley/Painting-with-Polygons
+      desc: Using evolutionary algorithms to recreate the mona lisa using polygons
+      icon: i-heroicons-paint-brush-solid
       tech:
         - i-logos:python
         - i-logos:pytorch-icon
       repo: Renovamen/Text-Classification
-    - name: pcalg-py
-      link: https://github.com/Renovamen/pcalg-py
-      desc: Implement PC algorithm in Python
-      icon: i-ph:graph
-      tech:
+    - name: Predicting Customer Churn
+      link: https://github.com/Ryan-Daley/Churn-Baby-Churn
+      desc: Using a logistic regression model to predict customer churn
+      icon: i-ph-recycle
+      tech: 
         - i-logos:python
       repo: Renovamen/pcalg-py
-  JavaScript Libraries:
-    - name: VuePress Theme Gungnir
-      link: https://github.com/Renovamen/vuepress-theme-gungnir
-      desc: A blog theme for VuePress 2
-      icon: i-akar-icons:sword
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-      repo: Renovamen/vuepress-theme-gungnir
-    - name: Oh, Vue Icons!
-      link: https://github.com/Renovamen/oh-vue-icons
-      desc: Import SVG icons from different popular icon packs in Vue easily
-      icon: oh-vue-icons
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-        - i-logos:rollupjs
-      repo: Renovamen/oh-vue-icons
-  Websites:
-    - name: Portfolio
-      link: https://portfolio.zxh.io
+
+  R programming language:
+    - name: A Statistical Analysis of Extramarital Affairs
+      link: https://github.com/Ryan-Daley/Extramarital-Affairs
+      desc: A statistical analysis of extramarital affairs using R
+      icon: i-icon-park-outline-church-one
+      tech: 
+        - i-logos:r-lang
+      repo: Ryan-Daley/Fairs-Affairs
+    - name: Determinants of House Prices
+      link: https://github.com/Ryan-Daley/House-Price-Determinants
+      desc: A statistical analysis of house prices using R
+      icon: i-bi-houses
+      tech: 
+        - i-logos:r-lang
+      repo: Ryan-Daley/House-Price-Determinants
+    - name: TedTalk Text Analytics
+      link: https://github.com/Ryan-Daley/Text-Analytics-With-R
+      desc: A text analytics project using R
+      icon: i-tabler-brand-ted
+      tech: 
+        - i-logos:r-lang
+      repo: Ryan-Daley/Text-Analytics-With-R
+    - name: Good cop, bad cop
+      link: https://github.com/Ryan-Daley/Good-Cop-Bad-Cop
+      desc: A statistical analysis of police behaviour using R
+      icon: i-maki-police
+      tech: 
+        - i-logos:r-lang
+      repo: Ryan-Daley/Good-Cop-Bad-Cop
+
+  
+  Websites / Online Tools:
+    - name: MacOS Portfolio
+      link: https://ryan-daley.github.io/MacOS-Website/
       desc: My portfolio website simulating macOS's GUI
       icon: i-ic:baseline-laptop-mac
       tech:
@@ -79,68 +100,8 @@ projects:
         - i-logos:typescript-icon
         - i-logos:unocss
         - i-logos:vitejs
-      repo: Renovamen/playground-macos
-    - name: Interesting Resume
-      link: https://resume.zxh.io
-      desc: Hey adventurer! Why not help me with retrieving my resume fragments back!
-      icon: i-et:compass
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-        - i-logos:unocss
-        - i-logos:pinia
-        - i-logos:vitejs
-      repo: Renovamen/midgard
-    - name: zxh.io
-      link: https://zxh.io
-      desc: My personal website
-      icon: i-solar:planet-linear
-      tech:
-        - i-logos:astro-icon
-        - i-logos:solidjs-icon
-        - i-logos:unocss
-      repo: Renovamen/renovamen.github.io
-    - name: Fishmail
-      link: https://fishmail.vercel.app
-      desc: 装作在 Gmail 上查邮件的样子看知乎摸鱼
-      icon: i-game-icons:fish-escape
-      tech:
-        - i-logos:vue
-        - i-vscode-icons:file-type-nuxt
-        - i-logos:ant-design
-      repo: Renovamen/fishmail
-  Online Tools:
-    - name: Oh My CV!
-      link: https://ohmycv.app
-      desc: Write your curriculum vitae / resume in Markdown
-      icon: oh-my-cv
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-        - i-logos:unocss
-        - i-logos:pinia
-        - i-logos:vitejs
-        - i-simple-icons:pwa
-      repo: Renovamen/oh-my-cv
-    - name: Cube Solver
-      link: https://cube.zxh.io
-      desc: A rubik's cube solver
-      icon: i-fluent:cube-24-regular
-      tech:
-        - i-logos:javascript
-        - i-vscode-icons:file-type-html
-        - i-vscode-icons:file-type-css
-      repo: Renovamen/Just-a-Cube
-    - name: Wordle Helper
-      link: https://wordle.zxh.io
-      desc: Help you solve the Wordle puzzles when your vocabulary fails you
-      icon: i-icon-park-outline:game-ps
-      tech:
-        - i-logos:vue
-        - i-logos:typescript-icon
-        - i-logos:tailwindcss-icon
-        - i-logos:vitejs
-      repo: Renovamen/wordle-helper
+      repo: Ryan-Daley/MacOS-Website
+
 ---
 
-I'm trying to find a balance between research and engineering.
+A collection of Data Science projects I've worked on throughout my masters as well after graduation.
