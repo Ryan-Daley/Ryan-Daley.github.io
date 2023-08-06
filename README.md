@@ -4,7 +4,7 @@ This is my personal website.
 
 Essentially what I've done here is one above creating a wix website. 
 
-Shoutout to [Renovamen](https://github.com/Renovamen) for the actual hard work of creating an amazing website.
+Shoutout to [Renovamen](https://github.com/Renovamen) for actually creating this amazing website.
 
 
 &nbsp;
