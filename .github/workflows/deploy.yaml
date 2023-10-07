@@ -38,6 +38,6 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ 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 }}
           publish_dir: dist
-          cname: zxh.io
+          cname: ryandaleyanalytics.com
