@@ -4,7 +4,7 @@ This is my personal website.
 
 What I've done here is essentially one above creating a wix site.
 
-Shoutout to [Renovamen](https://github.com/Renovamen) who is responsible for origingal repo which can be found [here](https://github.com/Renovamen/renovamen.github.io).
+Shoutout to [Renovamen](https://github.com/Renovamen) who is responsible for original repo which can be found [here](https://github.com/Renovamen/renovamen.github.io).
 
 
 &nbsp;
