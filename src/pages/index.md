@@ -2,17 +2,17 @@
 layout: ../layouts/About.astro
 name: Ryan M. Daley
 subname: Welcome
-avatar: img/avatar.png
+avatar: img/avatar.JPG
 socials:
-  - icon: i-radix-icons:linkedin-logo
-    link: https://www.linkedin.com/in/ryandaley74/
   - icon: i-academicons:cv
     link: /files/cv/cv.pdf
   - icon: "i-ion:mail-outline"
     link: "mailto:ryandaley74@gmail.com"
+  - icon: i-radix-icons:linkedin-logo
+    link: https://www.linkedin.com/in/ryandaley74/
   - icon: i-eva:github-outline
     link: https://github.com/Ryan-Daley
-  - icon: i-IoIosPaper
+  - icon: i-ri:game-line
     link: posts/
     name: Blog
 ---
