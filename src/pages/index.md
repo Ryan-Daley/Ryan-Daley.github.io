@@ -12,21 +12,21 @@ socials:
     link: "mailto:ryandaley74@gmail.com"
   - icon: i-eva:github-outline
     link: https://github.com/Ryan-Daley
-  - icon: i-ri:game-line
-    link: https://ryan-daley.github.io/MacOS-Website/
-    name: Portfolio
+  - icon: i-IoIosPaper
+    link: posts/
+    name: Blog
 ---
 
-This is a space to show my data science coursework/projects and some writing. On this website, you'll find examples of work in statistical analysis, machine learning and data visualization. You'l also find some essays from my time as an IR and politics undergrad. I don't know how good they are, the more I read them, the worse they get.. Please don't hesitate to get in contact and thank you for visiting!
+This space consolidates a range of projects, from past endeavors to current pursuits. Included are statistical analyses and ML projects, as well as essays from IR and politics disciplines. For rants and musings see the blog section. I think it's pretty good, but then I would say that.
 
-[Curriculum Vitae](/files/cv/cv.pdf) / ryandaley64@gmail.com
+[CV](/files/cv/cv.pdf) / ryandaley64@gmail.com
 
 
 ## Education
 
 |                                                                                                                       |           |
 | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| **M.S. in Applied Data Science**, University of Essex, <p> Thesis: Reviewing the Data and Mathematical Modelling of the UK Government in Response To COVID-19</P>                                                                           | 2022-2023 |
+| **M.S. in Applied Data Science**, University of Essex <p> Thesis: Reviewing the Data and Mathematical Modelling Behind the UK Governments Response To COVID-19</P>                                                                           | 2022-2023 |
 | **B.A in International Relations & Politics**, University of Portsmouth <p>Thesis: A Case of Chinese Imperialism? Classical Realism and the Ideational and Material Factors Driving China’s Grand Strategy</p> | 2017-2021 |
 
 
@@ -93,36 +93,6 @@ Coursework, 2022
 [Full Project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf) / [Github](https://github.com/Ryan-Daley/House-Price-Determinants)
 :::
 
-:::paper[/img/about/tedtalks.png]
-**Ted Talks Analysis: Text Analytics with R**
-
-<u>Ryan Daley</u>
-
-Coursework, 2022
-
-[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Text-Analytics-With-R/main/MA331%20-%20Midterm%20Project.pdf) / [Github](https://github.com/Ryan-Daley/Text-Analytics-With-R)
-:::
-
-:::paper[/img/about/goodcop.png]
-**Good Cop, Bad Cop: Analysing the Centre For Policing Equity Dataset**
-
-<u>Ryan Daley</u>
-
-Coursework, 2022
-
-[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Good-Cop-Bad-Cop/main/MA304%20-%20EDA%20of%20CPE%20data.pdf) / [Github](https://github.com/Ryan-Daley/Good-Cop-Bad-Cop)
-:::
-
-:::paper[/img/about/federatelearning.png]
-**Data-Poising Attacks Against Federated Learning Systems: A Review**
-
-<u>Ryan Daley</u>
-
-Coursework, 2022
-
-[Full Project](https://iopscience.iop.org/article/10.1088/1742-6596/1487/1/012016/pdf) / [Github]()
-:::
-
 ## Essays on International Relations & Politics
 
 |                                                                                                                                                             |           |
@@ -138,9 +108,9 @@ Coursework, 2022
 
 ## Miscellaneous
 
-- 🚀 A more "interesting" version of this site exists [here](https://ryan-daley.github.io/MacOS-Website) - It's not optimised for mobile. So if you're using that I wouldn't bother!
+- 🚀 A more "interesting" version of this site exists [here](https://ryan-daley.github.io/MacOS-Website)
 
-- 🕹️ Currently getting to grips with finetuning large language models. The futures going to be weird..
+- 🕹️ Currently getting to grips with finetuning large language models.
 
 - 🎹 Always sitting at the piano. My favourite classical composer is Chopin. If you want to laugh at how ridicuously talented some people are, [click here](https://www.youtube.com/watch?v=pHlqEvAwdVc) 
 
