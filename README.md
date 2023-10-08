@@ -1,10 +1,10 @@
 # Hi! 🤔
 
-This is my personal website, built with [Astro](https://astro.build/), [Solid](https://www.solidjs.com/) and [UnoCSS](https://github.com/antfu/unocss).
+This is my personal website. 
 
-The [previous version](https://github.com/Renovamen/renovamen.github.io/tree/vitesse) is built with [Vitesse](https://github.com/antfu/vitesse).
+What I've done here is essentially one above creating a wix site.
 
-Anyway, just have fun: [zxh.io](https://zxh.io)
+Shoutout to [Renovamen](https://github.com/Renovamen) who is responsible for original repo which can be found [here](https://github.com/Renovamen/renovamen.github.io).
 
 
 &nbsp;
