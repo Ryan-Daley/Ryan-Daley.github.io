@@ -1,7 +1,7 @@
 export const SITE = {
   website: "https://ryan-daley.github.io/",
   title: "Ryan Daley",
-  desc: "Ryan's Porfolio.",
+  desc: "Rants and Musings.",
   author: "Ryan Daley"
 };
 
