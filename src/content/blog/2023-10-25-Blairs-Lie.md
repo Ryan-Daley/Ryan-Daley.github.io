@@ -1,6 +1,5 @@
 ---
+author: "Ryan Daley" 
 title: Blair's One Big Lie
+tags: ["Iraq War", "Chilcot Inquiry", "WMDs"]
 ---
-* The Iraq War
-* The Chilcot Inquiry 
-* His memoir
