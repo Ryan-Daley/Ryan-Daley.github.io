@@ -17,7 +17,7 @@ socials:
     name: Blog
 ---
 
-This space consolidates a range of projects, from past endeavors to current pursuits. Included are statistical analyses and ML projects, as well as essays from IR and politics disciplines. For rants and musings see the blog section. I think it's pretty good, but then I would say that.
+This space consolidates a range of projects, from past endeavors to current pursuits. Included are statistical analyses and ML projects, as well as essays from IR and politics disciplines. For rants and musings see the blog section.
 
 [CV](/files/cv/cv.pdf) / ryandaley64@gmail.com
 
