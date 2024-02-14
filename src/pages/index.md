@@ -17,7 +17,7 @@ socials:
     name: Blog
 ---
 
-This space consolidates a range of projects, from past endeavors to current pursuits. Included are statistical analyses and ML projects, as well as essays from IR and politics disciplines. For rants and musings see the blog section.
+This page was designed to showcase a range of projects from uni to help me get a grad job - it didn't work, but now I'm weirdly attached to this site. I want to morph it into something else but i'm not sure what. For rants and musings see the blog section - had to delete them because of new job, impartiality et cetera et cetera.
 
 [CV](/files/cv/cv.pdf) / ryandaley64@gmail.com
 
@@ -26,8 +26,8 @@ This space consolidates a range of projects, from past endeavors to current purs
 
 |                                                                                                                       |           |
 | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| **M.S. in Applied Data Science**, University of Essex <p> Thesis: Reviewing the Data and Mathematical Modelling Behind the UK Governments Response To COVID-19</P>                                                                           | 2022-2023 |
-| **B.A in International Relations & Politics**, University of Portsmouth <p>Thesis: A Case of Chinese Imperialism? Classical Realism and the Ideational and Material Factors Driving China’s Grand Strategy</p> | 2017-2021 |
+| **M.S. in Applied Data Science**, University of Essex <p> | 2022-2023 |
+| **B.A in International Relations & Politics**, University of Portsmouth </p> | 2017-2021 |
 
 
 ## Data Science Coursework & Projects
@@ -108,12 +108,12 @@ Coursework, 2022
 
 ## Miscellaneous
 
-- 🚀 A more "interesting" version of this site exists [here](https://ryan-daley.github.io/MacOS-Website)
+- 📈 This year my goal is to seriously understand what is going on in the markets, devise a long term investment strategy, and if i'm feeling really stupid put some trades on.
 
-- 🕹️ Currently getting to grips with finetuning large language models.
+- 🇪🇸 2024 is the year I become conversationally fluent in Spanish.
 
-- 🎹 Always sitting at the piano. My favourite classical composer is Chopin. If you want to laugh at how ridicuously talented some people are, [click here](https://www.youtube.com/watch?v=pHlqEvAwdVc) 
+- 🎹 Always at the piano. My favourite classical composer is Chopin. I always come pack to this [video](https://www.youtube.com/watch?v=pHlqEvAwdVc) 
 
-- 🖥 New MacOS convert
+- 🚀 A weirder version of this site exists [here](https://ryan-daley.github.io/MacOS-Website)
 
-- 🌭 My dream: `while(sleeping){money++;}`
+- 💫 My dream: `while(sleeping){money++;}`
