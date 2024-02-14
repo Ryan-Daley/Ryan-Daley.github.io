@@ -15,7 +15,7 @@ socials:
     name: Blog
 ---
 
-This page was designed to showcase a range of projects from uni to help me get a grad job - it didn't work, but now I'm weirdly attached to this site. I want to morph it into something else but i'm not sure what. For rants and musings see the blog section - had to delete them because of new job, impartiality et cetera et cetera.
+This page was designed to showcase a range of uni projects to help me get a grad job. It didn't work, but now I'm weirdly attached to the site. I want to morph it into something else but I'm not sure what. For rants and musings see the blog section - had to delete them because of new job, impartiality et cetera et cetera.
 
 [CV](/files/cv/cv.pdf) / ryandaley64@gmail.com
 
