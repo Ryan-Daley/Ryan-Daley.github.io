@@ -23,7 +23,7 @@ This page was designed to showcase a range of uni projects to help me get a grad
 |                                                                                                                       |           |
 | --------------------------------------------------------------------------------------------------------------------- | --------- |
 | **MSc in Applied Data Science**, University of Essex <p> | 2022-2023 |
-| **B.A in International Relations and Politics**, University of Portsmouth </p> | 2017-2021 |
+| **B.A. in International Relations and Politics**, University of Portsmouth </p> | 2017-2021 |
 
 
 ### Data Science Projects <span text-base>[(See all)](/projects)
