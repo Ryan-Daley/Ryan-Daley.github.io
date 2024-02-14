@@ -26,7 +26,7 @@ This page was designed to showcase a range of uni projects to help me get a grad
 | **B.A in International Relations and Politics**, University of Portsmouth </p> | 2017-2021 |
 
 
-## Data Science Projects <span text-base>[(See all)](/projects)
+### Data Science Projects <span text-base>[(See all)](/projects)
 
 :::paper[/img/about/braintumour.png]
 **Brain Tumour Image Segmentation: Developing and Training a Convolutional Neural Network (CNN) To Segment Brain Tumour Images**
@@ -58,7 +58,7 @@ Coursework, 2022
 [Full Project](https://raw.githubusercontent.com/Ryan-Daley/Amazon-Reviews-Sentiment-Analysis/main/Amazon%20Reviews%20Sentiment%20Analysis.pdf) / [Github](https://github.com/Ryan-Daley/Amazon-Sentiment-Analysis-/tree/main)
 :::
 
-## Essays on International Relations & Politics
+### Essays on International Relations & Politics
 
 |                                                                                                                                                             |           |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
@@ -71,7 +71,7 @@ Coursework, 2022
 | [**To What Extent Are NGO Self Regulation Initiatives Effective?**](https://raw.githubusercontent.com/Ryan-Daley/IR-Essays/main/NGOs%20%26%20Social%20Movements%20-%20To%20What%20Extent%20Are%20NGO%20Self-Regulation%20Initiatives%20Effective.pdf)  | 2021 |
 
 
-## Miscellaneous
+### Miscellaneous
 
 - 📈 This year my goal is to seriously understand what is going on in the markets, devise a long term investment strategy, and if i'm feeling really stupid put some trades on.
 
