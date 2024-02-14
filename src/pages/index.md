@@ -15,20 +15,18 @@ socials:
     name: Blog
 ---
 
-This page was designed to showcase a range of uni projects to help me get a grad job. It didn't work, but now I'm weirdly attached to the site. I want to morph it into something else but I'm not sure what. For rants and musings see the blog section - had to delete them because of new job, impartiality et cetera et cetera.
 
-[CV](/files/cv/cv.pdf) / ryandaley64@gmail.com
+This page was designed to showcase a range of uni projects to help me get a grad job. It didn't work - but now I'm weirdly sentimental over it. I want to morph it into something else but am unsure as to what. For rants and musings see the blog section - EDIT: had to delete them because of new job, impartiality et cetera et cetera.
 
-
-## Education
+### Education
 
 |                                                                                                                       |           |
 | --------------------------------------------------------------------------------------------------------------------- | --------- |
-| **M.S. in Applied Data Science**, University of Essex <p> | 2022-2023 |
+| **MSc in Applied Data Science**, University of Essex <p> | 2022-2023 |
 | **B.A in International Relations and Politics**, University of Portsmouth </p> | 2017-2021 |
 
 
-## Data Science Coursework & Projects
+## Data Science Projects <span text-base>[(See all)](/projects)
 
 :::paper[/img/about/braintumour.png]
 **Brain Tumour Image Segmentation: Developing and Training a Convolutional Neural Network (CNN) To Segment Brain Tumour Images**
@@ -58,37 +56,6 @@ Coursework, 2022
 Coursework, 2022
 
 [Full Project](https://raw.githubusercontent.com/Ryan-Daley/Amazon-Reviews-Sentiment-Analysis/main/Amazon%20Reviews%20Sentiment%20Analysis.pdf) / [Github](https://github.com/Ryan-Daley/Amazon-Sentiment-Analysis-/tree/main)
-:::
-
-:::paper[/img/about/titanic.png]
-**Titanic Survival Analysis: A Machine Learning Project**
-
-<u>Ryan Daley</u>
-
-Coursework, 2022
-
-[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Titanic-Survival-Analysis/main/Titanic%20Survival%20Analysis.pdf) / [Github](https://github.com/Ryan-Daley/Titanic-Survival-Analysis)
-:::
-
-:::paper[/img/about/affairs.png]
-**Fairs Affairs: A Statistical Analysis of Ray Fairs Extramarital Affairs Dataset**
-
-<u> Ryan Daley </u>
-
-Coursework, 2022
-
-[Full Project](https://raw.githubusercontent.com/Ryan-Daley/Extramarital-Affairs/main/A%20Statistical%20Analysis%20of%20Fair's%20Affairs.pdf) /
-[Github](https://github.com/Ryan-Daley/Extramarital-Affairs)
-:::
-
-:::paper[/img/about/housing.png]
-**House Market Analysis: Analysing Boston Housing Dataset in R**
-
-<u>Ryan Daley </u>
-
-Coursework, 2022
-
-[Full Project](https://raw.githubusercontent.com/Ryan-Daley/House-Price-Determinants/main/Final%20Report.pdf) / [Github](https://github.com/Ryan-Daley/House-Price-Determinants)
 :::
 
 ## Essays on International Relations & Politics
