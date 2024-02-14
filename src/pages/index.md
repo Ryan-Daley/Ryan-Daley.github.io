@@ -6,8 +6,6 @@ avatar: img/avatar.JPG
 socials:
   - icon: i-academicons:cv
     link: /files/cv/cv.pdf
-  - icon: "i-ion:mail-outline"
-    link: "mailto:ryandaley74@gmail.com"
   - icon: i-radix-icons:linkedin-logo
     link: https://www.linkedin.com/in/ryandaley74/
   - icon: i-eva:github-outline
