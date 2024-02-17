@@ -16,7 +16,7 @@ socials:
 ---
 
 
-This page was designed to showcase a range of uni projects to help me get a grad job. It didn't work - but now I'm weirdly sentimental over it. I want to morph it into something else but am unsure as to what. For rants and musings see the blog section - EDIT: had to delete them because of new job, impartiality et cetera et cetera.
+This page was designed to showcase a range of uni projects to help me get a grad job. It didn't work - but I'm now weirdly attached to it. I want to morph it into something else but unsure as to what. Time will tell.
 
 ### Education
 
